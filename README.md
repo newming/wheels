@@ -47,7 +47,7 @@ https://frankfang.github.io/wheels/
 
 - 图片占位符
 - 图片懒加载
-- 自制 template 
+- 自制 template
 - 下拉刷新
 - Typeahead
 - 表单验证
