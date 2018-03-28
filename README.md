@@ -1,5 +1,10 @@
 # 轮子
 
+remote 改变了,remote 列表:
+
+- history: 原始作者的源
+- origin: 我的仓库的源
+
 不用任何框架、预编译，用最笨的办法造轮子。
 
 - 没有 webpack、没有 babel、没有 SCSS、没有 require、没有 npm，而且没有分号！！！
